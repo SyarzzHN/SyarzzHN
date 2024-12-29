@@ -8,7 +8,7 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> Syarzz Takamiya
+  <b>Name:</b> Syarzz Hanami
 </li>
 <li>
   <b>Partner:</b> Chikkyy
@@ -20,7 +20,7 @@
   <b>Loves:</b> Atsuko Hakari
 </li>
 <li>
-  <b>Website:</b> https://syariffh.github.io/Website/index.html
+  <b>Website:</b> https://syarzznf.github.io/Website/index.html
 </li>
 <li>
   <b>About:</b> I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
