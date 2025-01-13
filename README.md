@@ -76,9 +76,9 @@
 <summary align="center"><b>←Total Stats on github  ↓</b></summary>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=SyariffH&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SyariffH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyariffH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SyarzzNF&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SyarzzNF&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyarzzNF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
 
