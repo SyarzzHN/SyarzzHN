@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/SyarzzNF)<br>
+<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/SyarzzHN)<br>--->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SyariffH/Media/main/Video/hoshino.gif" />
@@ -8,10 +8,7 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> Syarzz Hanami
-</li>
-<li>
-  <b>Partner:</b> Chikkyy
+  <b>Name:</b> Syarzz Hanaka
 </li>
 <li>
   <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
@@ -20,7 +17,7 @@
   <b>Loves:</b> Atsuko Hakari
 </li>
 <li>
-  <b>Website:</b> https://syarzznf.github.io/Website/index.html
+  <b>Website:</b> https://syarzzhn.github.io/Website/index.html
 </li>
 <li>
   <b>About:</b> I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
@@ -40,15 +37,15 @@
   <picture>
       <source
     media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/SyarzzHN/SyarzzHN/output/github-contribution-grid-snake-dark.svg"
       />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/SyarzzHN/SyarzzHN/output/github-contribution-grid-snake.svg"
       />
     <img
       alt="Snake"
-      src="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/SyarzzHN/SyarzzHN/output/github-contribution-grid-snake.svg"
       />
   </picture>
 
@@ -59,8 +56,8 @@
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <div style="width:80%">
-<a href="https://visitcount.itsvg.in/api?id=SyarzzNF&label=Profile%20Views&icon=0&pretty=true">
-<img src="https://visitcount.itsvg.in/api?id=SyarzzNF&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
+<a href="https://visitcount.itsvg.in/api?id=SyarzzHN&label=Profile%20Views&icon=0&pretty=true">
+<img src="https://visitcount.itsvg.in/api?id=SyarzzHN&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 </details> 
 </div>
@@ -69,16 +66,16 @@
 ----
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SyarzzNF&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=SyarzzHN&theme=onedark)
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 <details open>
 <summary align="center"><b>←Total Stats on github  ↓</b></summary>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=SyarzzNF&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SyarzzNF&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyarzzNF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SyarzzHN&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SyarzzHN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyarzzHN&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
 
