@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/SyariffH)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/SyarzzNF)<br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SyariffH/Media/main/Video/hoshino.gif" />
@@ -40,15 +40,15 @@
   <picture>
       <source
     media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake-dark.svg"
       />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake.svg"
       />
     <img
       alt="Snake"
-      src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/SyarzzNF/SyarzzNF/output/github-contribution-grid-snake.svg"
       />
   </picture>
 
@@ -59,8 +59,8 @@
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <div style="width:80%">
-<a href="https://visitcount.itsvg.in/api?id=SyariffH&label=Profile%20Views&icon=0&pretty=true">
-<img src="https://visitcount.itsvg.in/api?id=SyariffH&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
+<a href="https://visitcount.itsvg.in/api?id=SyarzzNF&label=Profile%20Views&icon=0&pretty=true">
+<img src="https://visitcount.itsvg.in/api?id=SyarzzNF&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 </details> 
 </div>
@@ -69,7 +69,7 @@
 ----
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SyariffH&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=SyarzzNF&theme=onedark)
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 <details open>
@@ -91,7 +91,7 @@ social media</p>
 
 <p align="center">
 <a href="https://whatsapp.com/channel/0029VaiZWDR1nozBLLhlUL1y" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<a href="https://tiktok.com/@syrff.h" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/>
-<a href="https://www.instagram.com/syrff.h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://tiktok.com/@syarzzhn" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/>
+<a href="https://www.instagram.com/syarzzhn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </p>
 </div>
